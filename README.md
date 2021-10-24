@@ -1,5 +1,3 @@
 # php
-
-#grand
-##petit
-.gris
+## contenu
+ .gris
